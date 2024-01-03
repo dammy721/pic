@@ -1,3 +1,5 @@
+### Haarカスケードを用いた顔検出
+
 import cv2
 from google.colab.patches import cv2_imshow  # Colab環境での画像表示用
 
